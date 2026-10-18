@@ -1,0 +1,1 @@
+echo -e "__pycache__/\n*.pyc\n.DS_Store" > .gitignore
